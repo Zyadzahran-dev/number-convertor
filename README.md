@@ -46,10 +46,12 @@ Binary → Decimal → Hexadecimal
 Hexadecimal → Decimal → Binary
 
 Project Structure
+
 NumberConverter/
 │
 ├── main.cpp
-└── README.md
+└── README.md 
+
 Technologies
 C++
 Visual Studio
